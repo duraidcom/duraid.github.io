@@ -1,2 +1,2 @@
-shduraid.github.io
+duraid.github.io
 ==================
